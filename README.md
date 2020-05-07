@@ -1,6 +1,4 @@
-# 15464 Final Project Submission SUBMISSION
-
-Oscar (odadfar)
+# 15464 Final Project Submission
 
 # 2D Drawing Interface
 
