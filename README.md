@@ -9,7 +9,7 @@ python3 app.py
 
 Loads up the kivy drawing interface.
 
-<img src='documentation/sketch_interface.png'>
+<img src='documentation/sketch_interface.png' width='50%'>
 
 To export rotations to a JSON format, run:
 ```
