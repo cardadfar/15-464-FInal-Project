@@ -1,5 +1,7 @@
 # 15464 Final Project Submission
 
+<img src='documentation/pose_examples.png' width='100%'>
+
 ## 2D Drawing Interface
 
 ```
@@ -26,3 +28,5 @@ python3 -m http.server
 ```
 
 Visit localhost to view the web-browser posing interface.
+
+<img src='documentation/pose_interface.png' width='50%'>
