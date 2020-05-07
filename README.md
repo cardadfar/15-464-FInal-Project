@@ -1,6 +1,6 @@
 # 15464 Final Project Submission
 
-# 2D Drawing Interface
+## 2D Drawing Interface
 
 ```
 cd interface/
@@ -16,7 +16,7 @@ python3 joint_parsing.py
 ```
 
 
-# 3D Posing Interface
+## 3D Posing Interface
 
 ```
 cd model/
